@@ -13,7 +13,7 @@
 - Embedded systems (because blinking LEDs is the first step to world domination)
 - Linux (because Windows Update has personally wronged me)
 - ROS2 & robotics (teaching machines to move is fun, until they chase me)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ---
 
 ### 🚀 Random Facts:
