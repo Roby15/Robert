@@ -23,5 +23,6 @@
 
 ---
 
-📬 Want to chat? Send me a message! I promise I only talk in infinite loops sometimes.  
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/trifasrobert/)
 
