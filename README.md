@@ -8,10 +8,13 @@
 
 ---
 
-### 🛠️ Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,mysql,dotnet,cs,git,py&theme=light)](https://skillicons.dev)
+### 🧰 Software
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,MySQL,docker,dotnet,cs,git,bash,py&theme=light)](https://skillicons.dev)
 ---
 
+### 🛠️Ide
+[![My Skills](https://skillicons.dev/icons?i=azure,arduino,clion,linux,postman,rider,vscode&theme=light)](https://skillicons.dev)
+---
 ### 🚀 Random Facts:
 - My projects usually start with *"This should be simple..."* and end with *"Why is this not working?"*
 - "If it compiles, ship it" is a valid debugging strategy... right?
