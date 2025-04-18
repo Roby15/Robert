@@ -9,10 +9,10 @@
 ---
 
 ### 🧰 Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,MySQL,docker,dotnet,cs,git,bash,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,mysql,docker,dotnet,cs,git,bash,py&theme=light)](https://skillicons.dev)
 ---
 
-### 🛠️Ide
+### 🛠️Tools
 [![My Skills](https://skillicons.dev/icons?i=azure,arduino,clion,linux,postman,rider,vscode&theme=light)](https://skillicons.dev)
 ---
 ### 🚀 Random Facts:
