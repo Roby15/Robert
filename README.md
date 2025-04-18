@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Skills & Interests:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,mysql,dotnet,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,mysql,dotnet,git,py&theme=light)](https://skillicons.dev)
 ---
 
 ### 🚀 Random Facts:
