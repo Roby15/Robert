@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Skills & Interests:
+### 🛠️ Software
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,ros,mysql,dotnet,cs,git,py&theme=light)](https://skillicons.dev)
 ---
 
